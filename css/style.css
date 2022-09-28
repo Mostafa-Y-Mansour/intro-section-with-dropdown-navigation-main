@@ -110,7 +110,7 @@ body {
   content: var(--arrow);
   position: absolute;
   right: -15px;
-  top: 7px;
+  /* top: 7px; */
 }
 
 /* list-sub-menu style */
